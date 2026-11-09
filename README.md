@@ -7,4 +7,8 @@ end to end, from ingestion and dbt models to the dashboards people actually use.
 - 📊 **Lately:** data platforms for one of the UK's top 5 startups, and Amazon
 - 🧪 **On the side:** AI-generated video, 3D web experiences, and small games
 
+### 🚀 Try it
+
+- **[Author Coffeechat](https://author-coffeechat.vercel.app)**: drop in an EPUB and chat with its author, in their own voice. Built with Claude.
+
 📫 Open to freelance projects — get in touch via [LinkedIn](https://www.linkedin.com/in/ehidalgopower)
